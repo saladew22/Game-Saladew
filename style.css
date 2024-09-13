@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: #d9f0ff;
+    color: #0415f9;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+#board {
+    background-color: #9fdbf5;
+    border-bottom: 20px solid #4059ff;
+}
+
+button {
+    width: 160px;
+    height: 45px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+    background-color: #1616e0;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+button:hover {
+    background-color: hsl(191, 100%, 61%);
+    color: hsl(252, 91%, 9%);
+}
